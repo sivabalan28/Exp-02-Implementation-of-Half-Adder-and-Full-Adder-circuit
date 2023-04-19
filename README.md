@@ -66,6 +66,7 @@ endmodule
 ![rtl2](https://user-images.githubusercontent.com/113497347/233160446-545605a9-e1f6-4089-bd8f-0ee896437f55.png)
 
 Truth table:
+
 ![image](https://user-images.githubusercontent.com/113497347/233160766-ea51ad3e-2312-4270-bc1c-6a7435315c88.png)
 
 Timing diagram:
