@@ -71,7 +71,8 @@ Truth table:
 ![image](https://user-images.githubusercontent.com/113497347/233142337-4840378b-e8f1-4d79-9a70-d0493d90c4ec.png)
 
 Timing diagram:
-![image](https://user-images.githubusercontent.com/113497347/233142632-9685476b-8e3c-4f72-b008-a78353c32ac8.png)
+
+
 
 Full adder:
 
