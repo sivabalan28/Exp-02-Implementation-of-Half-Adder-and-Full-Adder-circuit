@@ -62,6 +62,7 @@ endmodule
 ### OUTPUT:
 
  RTL
+ 
 ![image](https://user-images.githubusercontent.com/113497347/233159397-69cfe4d5-03af-4ebb-9fdd-425c46b875a3.png)
 ![rtl2](https://user-images.githubusercontent.com/113497347/233160446-545605a9-e1f6-4089-bd8f-0ee896437f55.png)
 
@@ -70,6 +71,7 @@ Truth table:
 ![image](https://user-images.githubusercontent.com/113497347/233160766-ea51ad3e-2312-4270-bc1c-6a7435315c88.png)
 
 Timing diagram:
+
 ![timin1](https://user-images.githubusercontent.com/113497347/233161215-a2ccd105-b1a2-4715-9852-38e47e05ad5c.png)
 ![tim2](https://user-images.githubusercontent.com/113497347/233161627-8bcca454-0e40-4a5a-9682-de2299c9d242.png)
 
