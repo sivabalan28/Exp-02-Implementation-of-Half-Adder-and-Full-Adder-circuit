@@ -67,7 +67,6 @@ endmodule
 
 Truth table:
 ![image](https://user-images.githubusercontent.com/113497347/233160766-ea51ad3e-2312-4270-bc1c-6a7435315c88.png)
-![image](https://user-images.githubusercontent.com/113497347/233160838-eecda2c6-aad3-4a2a-abfc-758b20c70ce1.png)
 
 Timing diagram:
 ![timin1](https://user-images.githubusercontent.com/113497347/233161215-a2ccd105-b1a2-4715-9852-38e47e05ad5c.png)
